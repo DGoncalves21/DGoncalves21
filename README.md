@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 
 
-<!--
-**DGoncalves21/DGoncalves21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+Who am I?
+I'm currently a 2nd-year student in Informatics Engineering at ISEP (Instituto Superior de Engenharia do Porto).
+My journey in technology is fueled by a passion for coding, problem-solving, and creating impactful projects.
 
-Here are some ideas to get you started:
+🔭 What am I working on?
+Right now, I’m into java, C, assembly and also web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me?
+Feel free to drop me an email at 1230605@isep.ipp.pt. I'm open to collaborate.
+
