@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Full+Stack+%26+Mobile+Developer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%40+ISEP;Full+Stack+%26+Mobile+Developer;Building+Real-World+Solutions)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,14 +10,15 @@
 
 ## 🎓 About Me
 
-Computer Engineering student at **ISEP** (Instituto Superior de Engenharia do Porto) combining academic excellence with practical experience in full-stack and mobile development using Java, C++, and Flutter. Active member of NEI's Image Department and currently pursuing CCNA certification to broaden expertise in networking systems.
+Computer Engineering student at **ISEP** (Instituto Superior de Engenharia do Porto) with practical experience in full-stack and mobile development using Java, C++, and Flutter.
 
-- 🔭 Currently working on: **Peako** - A gamified productivity app with Flutter
-- 🌱 Learning: Advanced networking protocols and AI-driven systems
-- 👯 Looking to collaborate on: Open-source projects and innovative mobile apps
-- 💬 Ask me about: Flutter, React, Java, or anything tech-related
-- 📫 Reach me: [diogopgoncalves05@gmail.com](mailto:diogopgoncalves05@gmail.com)
-- ⚡ Fun fact: I love turning ideas into working applications!
+**Currently:**
+- 📱 Developing **Peako** - A gamified productivity app with Flutter
+- 🌐 Pursuing **CCNA Certification** at Cisco Networking Academy
+- 🎨 Contributing as **Image Department Member** at NEI (Núcleo de Estudantes de Informática)
+- 💻 Building applications with React and backend systems with Java
+
+**Contact:** [diogopgoncalves05@gmail.com](mailto:diogopgoncalves05@gmail.com)
 
 ---
 
@@ -35,21 +36,17 @@ Computer Engineering student at **ISEP** (Instituto Superior de Engenharia do Po
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
-### Frontend Development
+### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### Tools & Technologies
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -58,7 +55,7 @@ Computer Engineering student at **ISEP** (Instituto Superior de Engenharia do Po
 
 ### Networking
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![VCenter](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
 ---
 
@@ -79,42 +76,39 @@ Computer Engineering student at **ISEP** (Instituto Superior de Engenharia do Po
 ## 🚀 Featured Projects
 
 ### 🎯 [Peako - Personal Goals & Task Completion App](https://github.com/dgoncalves21/peako)
-> A gamified productivity app with mountain-climbing character progression
+> Gamified productivity app with mountain-climbing character progression
 - **Tech Stack:** Flutter, Dart
 - **Features:** Personal goal tracking, integrated mini-game, task gamification
-- **Status:** In Development (Oct 2025 - Nov 2025)
+- **Timeline:** Oct 2025 - Nov 2025
 
 ### 💪 [VOKE - Gym Management App](https://github.com/dgoncalves21/voke)
-> Mobile application for comprehensive gym management
+> Mobile application for gym management and fitness tracking
 - **Tech Stack:** Flutter, Dart
-- **Features:** Fitness tracking, gym resource management, collaborative development
-- **Status:** Completed (Sep 2025 - Nov 2025)
+- **Features:** Fitness tracking, resource management, collaborative development
+- **Timeline:** Sep 2025 - Nov 2025
 
 ### 🚢 [Port Logistics Management System](https://github.com/dgoncalves21/port-logistics)
 > AI-driven intelligent port operations system
 - **Tech Stack:** Prolog (AI), React, C++, VCenter3
-- **Features:** Vessel scheduling, cargo handling, resource allocation
 - **Highlights:** AI scheduling algorithms, disaster recovery planning
 
 ### 🚁 [Shodrone - Drone Show Management System](https://github.com/dgoncalves21/shodrone)
 > Back-office system for drone multimedia shows
 - **Tech Stack:** Java, ANTLR, Multithreading, Shared Memory
-- **Features:** Client operations, DSL script validation, collision detection
-- **Highlights:** Scalable multithreaded simulation, real-time synchronization
+- **Highlights:** Scalable multithreaded simulation, real-time collision detection
 
 ### 🏭 [Industrial Production Management System](https://github.com/dgoncalves21/production-mgmt)
-> Comprehensive production planning and control solution
+> Production planning and control solution for industrial facilities
 - **Tech Stack:** PL/SQL, Java, C/Assembly
-- **Features:** Product engineering, production planning, machine monitoring
-- **Methodology:** TDD, SCRUM (3 sprints)
+- **Methodology:** Test-Driven Development, SCRUM (3 sprints)
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Certifications & Activities
 
-- 🎓 **CCNA Certification** - Cisco Networking Academy (In Progress)
-- 🏅 **ENEI Participant** - Encontro Nacional de Estudantes de Informática
-- 🎨 **NEI Member** - Image Department, Computer Science Students' Association
+- 🎓 **CCNA Certification** - Cisco Networking Academy at ISEP Academy (Feb 2025 - Feb 2026)
+- 🎨 **Image Department Member** - NEI (Núcleo de Estudantes de Informática) at ISEP (Oct 2025 - Present)
+- 🏅 **ENEI Participant** - Encontro Nacional de Estudantes de Informática (April 2025)
 - 💻 **Bachelor in Computer Engineering** - ISEP (In Progress)
 
 ---
@@ -137,38 +131,10 @@ Computer Engineering student at **ISEP** (Instituto Superior de Engenharia do Po
 
 ---
 
-## 💡 Currently Learning
-
-```javascript
-const currentFocus = {
-  networking: "CCNA Certification - Advanced routing & security protocols",
-  mobile: "Advanced Flutter animations and state management",
-  AI: "Machine learning algorithms and intelligent systems",
-  backend: "Microservices architecture and scalability patterns"
-};
-```
-
----
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
 <div align="center">
-  
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 👀 Profile Views
 
 ![Visitor Count](https://profile-counter.glitch.me/dgoncalves21/count.svg)
 
----
-
-⭐️ From [dgoncalves21](https://github.com/dgoncalves21) | **"Building the future, one commit at a time"** 🚀
+⭐️ From [dgoncalves21](https://github.com/dgoncalves21)
 
 </div>
